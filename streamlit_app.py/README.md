@@ -1,2 +1,2 @@
-# Edger_Snowflake
-This repo is for Edger Snowflake POC
+# hello-app
+This repo is for hello-app
