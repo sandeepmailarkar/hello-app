@@ -1,4 +1,0 @@
-streamlit
-snowflake-connector-python
-streamlit_extras
--r
