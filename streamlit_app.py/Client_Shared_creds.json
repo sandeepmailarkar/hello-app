@@ -1,0 +1,9 @@
+{
+    "user": "reader_user",
+    "password": "Sdfed43da!44",
+    "account": "whxpfej-reader_acct1",
+    "warehouse": "READER_WH",
+    "database": "READER_ACCT_SHARE_DB",
+    "schema": "TEST_DB_1_SCHEMA",
+    "role":"READER_ROLE"
+}
